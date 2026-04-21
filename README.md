@@ -1,11 +1,14 @@
 # 3D Push Button
-CodePlayer 3D Push Button project. Made with HTML and CSS.
+A sample 3D button
+
+## Tech Stack
+- HTML
+- CSS
 
 ## Instructions 
-Clone the repo or download the zip file. Open index.html file in your browser and click the button.
-
-## Contributions
-This code is based on starter code from TheCodePlayer.com. Therefore I will not be accepting any pull requests.
+1. Clone the repo or download the zip file. 
+2. Open index.html file in your browser and click the button.
+3. A red button will be in the center of the page. When you press the button, you will see the animation of the button going up and down.
 
 ## Acknowledgements 
 * TheCodePlayer.com
